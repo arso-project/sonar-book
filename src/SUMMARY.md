@@ -11,3 +11,6 @@
     - [Clients, services and infrastructure](runtime.md)
     - [The bigger picture](bermuda.md)
 - [Contribute](./contribute.md)
+- [Notes](./notes/index.md)
+    - [Naming](./notes/naming.md)
+    - [CLI examples](./notes/cli-examples.md)
